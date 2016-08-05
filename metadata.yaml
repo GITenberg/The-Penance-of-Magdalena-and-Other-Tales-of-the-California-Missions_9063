@@ -1,0 +1,27 @@
+_repo: The-Penance-of-Magdalena-and-Other-Tales-of-the-California-Missions_9063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, J. Smeaton (Joseph Smeaton)
+    alias: Chase, Joseph Smeaton
+    birthdate: 1864
+    gutenberg_agent_id: '2961'
+    url: http://www.gutenberg.org/2009/agents/2961
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Missions -- California -- Fiction'
+- GITenberg
+tableOfContents: The penance of Magdalena -- Padre Urbano's umbrella -- The bells
+  of San Gabriel -- The buried treasure of Simi -- Love in the padres' garden.
+title: The Penance of Magdalena and Other Tales of the California Missions
+url: http://www.gutenberg.org/ebooks/9063
