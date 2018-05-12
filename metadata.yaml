@@ -1,5 +1,8 @@
 _repo: The-Penance-of-Magdalena-and-Other-Tales-of-the-California-Missions_9063
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chase, J. Smeaton (Joseph Smeaton)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2961'
     url: http://www.gutenberg.org/2009/agents/2961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9063#The-Penance-of-Magdalena-and-Other-Tales-of-the-California-Missions
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
